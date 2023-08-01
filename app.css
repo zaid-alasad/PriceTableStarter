@@ -66,5 +66,9 @@ body{
     padding: 15px 25px;
     width: 100%;
     max-width: 960px;
+    display: felx;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
 }
 
